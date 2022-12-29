@@ -19,6 +19,8 @@ GitHub Initial Codeup Exercise
 
 ###
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
+![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=Canva)
+
 
 ###
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
