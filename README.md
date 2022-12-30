@@ -3,14 +3,11 @@ GitHub Initial Codeup Exercise
 
 
 
-<table>
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&show_icons=true&locale=en" alt="QMCBT-JustinEvans" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
-  </tr>
-</table>
 
 
+    
+    
+    
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
 
 ## Skills
@@ -47,7 +44,17 @@ GitHub Initial Codeup Exercise
 
 ## Stats
 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&show_icons=true&locale=en" alt="QMCBT-JustinEvans" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
+</tr>
+</table>
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&theme=prussian&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&hide=TeX&layout=compact&theme=prussian)
 
