@@ -2,13 +2,13 @@
 # WHILE I LEARN HOW TO APPLY HER CODE TO MY OWN PAGE.
 
 <h3 align="center">
-  :sparkles: ℍ𝕖llo World! 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 Humble Abode :sparkles:
+  :sparkles: ℍ𝕖llo World! 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 my Humble Abode :sparkles:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge%20is%20Power.;Knowing%20Everything%20Does%20NOT%20Make%20you%20Powerful!;It%20Makes%20You%20a%20Know%20it%20All.;Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge%20is%20Power.;Knowing%20everything%20does%20NOT%20make%20you%20Powerful!;It%20makes%20you%20a%20'Know%20It%20All'.;Sharing%20your%20Knowledge,;Makes%20you%20a...;-MENTOR-;-TRAINER-;-ADVISOR-;With%20great%20Knowledge,%20comes%20great%20Power.;With%20great%20Power,%20comes%20great%20Responsibility!&font=Fira%20Code&center=true&width=1080&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- **ℝ𝕖𝕒𝕔𝕙 𝕞𝕖 𝕒𝕥**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a> -->
@@ -17,9 +17,7 @@
 **𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...**
 
 <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a>
-
 <a href="https://medium.com/@m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="meredith-wang" /></a>
-
 <a href="https://public.tableau.com/app/profile/m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="meredith-wang" /></a>
 
 <!-- <a href="https://www.pinterest.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-D22B2B?style=flat&logo=pinterest&labelColor=black" alt="meredith-wang" /></a> -->
@@ -128,8 +126,28 @@ This is extra code I am playing with and learning about
 # --------------------------------------------------
 # --------------------------------------------------
 
-# ASCCI ART
-(ɔ◔‿◔)ɔ
+# ASCCI ART and Emojii's
+- (ɔ◔‿◔)ɔ
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+# POC LINKS
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
+              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
+
 
 # Badges
 
@@ -176,6 +194,6 @@ This is extra code I am playing with and learning about
 
 # LINKS
 
-![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
+![my_NFT](https://i.seadn.io/gae/GhiydjbgVypiViWRWy8EhZb6dlw0ZbiSQaLS3Yt6ot118osQGeuBFZzvOXH4DqBrn7gKmvScRmPwBu7ZPx6Qz3ggYMUgFuqCW4t2mQ?auto=format&w=1000)
 
 ![](https://komarev.com/ghpvc/?username=your-github-m3redithw&color=66CDEB)
