@@ -2,13 +2,13 @@
 # WHILE I LEARN HOW TO APPLY HER CODE TO MY OWN PAGE.
 
 <h3 align="center">
-  :sparkles: ℍ𝕖𝕪! 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕄𝕖𝕣𝕖𝕕𝕚𝕥𝕙'𝕤 𝕟𝕖𝕣𝕕𝕪 𝕓𝕣𝕒𝕚𝕟 𝕔𝕖𝕝𝕝 :sparkles:
+  :sparkles: ℍ𝕖llo World! 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 Humble Abode :sparkles:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Data%20Scientist;7%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge%20is%20Power.;Knowing%20Everything%20Does%20NOT%20Make%20you%20Powerful!;It%20Makes%20You%20a%20Know%20it%20All.;Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- **ℝ𝕖𝕒𝕔𝕙 𝕞𝕖 𝕒𝕥**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a> -->
@@ -30,11 +30,6 @@
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
-𝗠𝗲𝗲𝘁 𝗺𝘆 𝗰𝗼𝗱𝗶𝗻𝗴 𝗯𝘂𝗱𝗱𝘆 𝗢𝗿𝗲𝗼 (ɔ◔‿◔)ɔ 💜
-
-![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
-
-![](https://komarev.com/ghpvc/?username=your-github-m3redithw&color=66CDEB)
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <p align="left">
@@ -124,3 +119,63 @@
 <p align="center">
   <img src="https://github.com/m3redithw/m3redithw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
+
+
+
+
+# Below the CUT Line!
+This is extra code I am playing with and learning about
+# --------------------------------------------------
+# --------------------------------------------------
+
+# ASCCI ART
+(ɔ◔‿◔)ɔ
+
+# Badges
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+#### 
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
+![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=Canva)
+
+#### Working Draft
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+</p>
+
+# GitHub Stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="QMCBT-JustinEvans" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
+</tr>
+</table>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&theme=prussian&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&hide=TeX&layout=compact&theme=prussian)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QMCBT-JustinEvans)
+
+# LINKS
+
+![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
+
+![](https://komarev.com/ghpvc/?username=your-github-m3redithw&color=66CDEB)
