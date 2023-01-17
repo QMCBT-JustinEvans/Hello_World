@@ -28,18 +28,35 @@
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
+## Status by year
+<details open="">
+<summary>📈 2021 Contributions</summary><br>
+![2021](https://raw.githubusercontent.com/G1Joshi/Assets/main/Contributions/2021.png)
+</details>
+
+
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+<details open="">
+<summary>👀 See my Individual Projects:</summary><br>
 <p align="left">
   <a href="https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Social-Media-Capstone&repo=Social-Media-Engagement-Forecasting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Social-Media-Engagement-Forecasting"></a>
   <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
   <a href="https://github.com/m3redithw/Potato-Disease-Image-Classification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Potato-Disease-Image-Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Potato-Disease-Image-Classification"></a>
+</details>
+
+<details open="">
+<summary>👀 See my Individual Projects:</summary><br>
   <a href="https://github.com/MBM-nlp/github_classification_project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MBM-nlp&repo=github_classification_project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="The-Metaverse"></a>
   <a href="https://github.com/JML-Association/Anomaly-Detection-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JML-Association&repo=Anomaly-Detection-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Anomaly-Detection-Project"></a>
   <a href="https://github.com/m3redithw/Zestimates-Clustering-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Zestimates-Clustering-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Zestimates-Clustering-Project"></a>
+</details>
+
+<details open="">
+<summary>👀 See my Individual Projects:</summary><br>
   <a href="https://github.com/m3redithw/Home-Value-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Home-Value-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Home-Value-Prediction"></a>
   <a href="https://github.com/m3redithw/Customer-Churn-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Customer-Churn-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Prediction"></a>
-  
+</details>
 
 <p align="left">
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
